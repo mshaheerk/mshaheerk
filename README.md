@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mshaheerk
+- 👋 Hi, I’m Shaheer Khan.
 - 👀 I’m interested in Web Designing and Development/
 - 🌱 I’m currently learning CSS.
 - 💞️ I'd like to learn more about Web designing and its Development and different programming languages.
