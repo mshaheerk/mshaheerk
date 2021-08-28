@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shaheer Khan.
-- 👀 I’m interested in Web Designing and Development/
+- 👀 Web Designing and Development.
 - 🌱 HTML | CSS | JS | BOOTSTRAP
 - 💞️ I'd like to learn more about Web designing and its Development and different programming languages.
 - 📫 Reach me at mshaheerk@outlook.com
